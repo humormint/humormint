@@ -1,7 +1,7 @@
 <h3>👣 발자취</h3>
 <h4>📌 이력</h4
 <ul>
-  <li>🦁<strong><a href="https://www.likelion.net/">멋쟁이사자처럼</a> 프론트엔드스쿨 2기 </strong><i>2022. 03 ~ 현재</i></li>
+  <li>🦁<strong><a href="https://www.likelion.net/"> 멋쟁이사자처럼</a> 프론트엔드스쿨 2기 </strong><i>2022. 03 ~ 현재</i></li>
 </ul>
 
 ---
