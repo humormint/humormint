@@ -22,3 +22,5 @@
 <h3>🌏 소셜 </h3>
 
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoonn94@gmail.com)
+ 
