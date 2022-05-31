@@ -29,8 +29,8 @@
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/${jihoon-chae}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${jihoon-chae}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${ture}&hide_title=${ture}&theme=${nord}&hide=${가리고 싶은 언어}" />
+  <a href="https://github.com/${Jihoon Chae}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${Jihoon Chae}&layout=compact&show_icons=${아이콘 보여줄지}&show_owner=${ture}&hide_title=${ture}&theme=${nord}&hide=${가리고 싶은 언어}" />
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
