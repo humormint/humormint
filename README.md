@@ -24,4 +24,4 @@
 
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoonn94@gmail.com)
-[!Resume](https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white)](https://field-waste-4dc.notion.site/22c79f9246a3468780d68831830e7d9f)
+[[!Resume](https://img.shields.io/badge/Resume-E44332?style=flat-square&logo=Todoist&logoColor=white)](https://field-waste-4dc.notion.site/22c79f9246a3468780d68831830e7d9f)
