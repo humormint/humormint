@@ -53,6 +53,8 @@
 <h3>🌏 소셜 </h3>
 
 <a href="https://velog.io/@hoonn94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="mailto:hoonn94@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 
 
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
