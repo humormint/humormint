@@ -56,10 +56,6 @@
 <a href="mailto:hoonn94@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-
-[![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoonn94@gmail.com)
-
 ---
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
