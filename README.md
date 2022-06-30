@@ -48,15 +48,12 @@
 <a><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"></a>
 
 
-
-
-
-
-
-
 ---
 
 <h3>🌏 소셜 </h3>
+
+<a href="https://velog.io/@hoonn94"><img src="https://img.shields.io/badge/Velog-20C997style=for-the-badge&logo=Velog&logoColor=white"></a>
+
 
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoonn94@gmail.com)
