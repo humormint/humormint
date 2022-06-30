@@ -52,7 +52,7 @@
 
 <h3>🌏 소셜 </h3>
 
-<a href="https://velog.io/@hoonn94"><img src="https://img.shields.io/badge/Velog-20C997style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a><img src="https://img.shields.io/badge/Velog-20C997style=for-the-badge&logo=Velog&logoColor=white"></a>
 
 
 [![Blog](https://img.shields.io/badge/blog-black?logo=github)](https://velog.io/@hoonn94)
