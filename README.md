@@ -6,7 +6,7 @@
 <h3>👣 발자취</h3>
 <h4>📌 이력</h4
 <ul>
-  <li>🦁<strong><a href="https://www.likelion.net/"> 멋쟁이사자처럼</a> 프론트엔드스쿨 2기 </strong><i>2022. 03 ~ 현재</i></li>
+  <li>🦁<strong><a href="https://www.likelion.net/"> 멋쟁이사자처럼</a> 프론트엔드스쿨 2기 </strong><i>2022. 03 ~ 07</i></li>
 </ul>
 
 ---
@@ -54,8 +54,8 @@
 
 <br>
 <a href="https://field-waste-4dc.notion.site/22c79f9246a3468780d68831830e7d9f"><img src="https://img.shields.io/badge/resume-FF160B?style=for-the-badge&logo=ProcessWire&logoColor=white"></a>
-<a href="https://www.facebook.com/profile.php?id=100075702960471"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://velog.io/@hoonn94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://www.facebook.com/profile.php?id=100075702960471"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="mailto:hoonn94@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
