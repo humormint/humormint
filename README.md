@@ -56,6 +56,8 @@
 <a href="https://www.facebook.com/profile.php?id=100075702960471"><img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 <a href="https://velog.io/@hoonn94"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
 <a href="mailto:hoonn94@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.notion.so/22c79f9246a3468780d68831830e7d9f"><img src="https://img.shields.io/badge/gmail-#E3939?style=for-the-badge&logo=resume&logoColor=white"></a>
+
 
 
 ---
