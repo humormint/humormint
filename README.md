@@ -29,6 +29,7 @@
 <a><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
 
+**Etc**
 
 <a><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
